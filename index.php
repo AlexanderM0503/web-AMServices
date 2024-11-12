@@ -10,6 +10,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="icon" href="img/favicon.png">
         <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/index.css">
     </head>
 
     <body>
@@ -25,6 +26,36 @@
 
             <div class="siteMap">
                 <i><a href="./">Главная</a></i>
+            </div>
+
+            <div class="link_all">
+                <div class="link_services">
+                    <i> <a href="#">PasswordGenerator</a> </i>
+                    <p>Простой генератор паролей</p>
+                    <hr class="link_hr">
+                    <i> <a href="#">Factor</a> </i>
+                    <p>Разложение числа на множители</p>
+                    <hr class="link_hr">
+                    <i> <a href="#">Random</a> </i>
+                    <p>Генератор чисел</p>
+                    <hr class="link_hr">
+                    <i> <a href="#">Color</a> </i>
+                    <p>RGB-палитра</p>
+                    <hr class="link_hr">
+                    <i> <a href="#">Anecdotes</a></i>
+                    <p>Сборник анекдотов</p>
+                </div>
+
+                <div class="link_games">
+                    <i> <a href="#">TicTacToe</a></i>
+                    <p>Игра "Крестики-нолики"</p>
+                    <hr class="link_hr">
+                    <i> <a href="#">Tag</a> </i>
+                    <p>Игра "Пятнашки"</p>
+                    <hr class="link_hr">
+                    <i> <a href="#">Schulte</a> </i>
+                    <p>Таблицы Шульте</p>
+                </div>
             </div>
 
             <footer>
