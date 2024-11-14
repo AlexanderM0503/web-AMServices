@@ -48,3 +48,37 @@ footer p {
     text-align: center;
     color: #fff;    
 }
+
+.groupBox {
+    margin: 20px 0 20px 0;
+    padding: 15px 20px 15px 20px;
+    width: 100%;
+    border-radius: 7px;
+    box-shadow: 0 0 5px;
+}
+
+.textBox, .numberBox {
+    margin: 5px;
+    width: 100%;
+    font-size: 18px;
+}
+
+.button45px {
+    margin: 5px;
+    width: 45px;
+    font-size: 18px;
+}
+
+.button100 {
+    margin: 5px;
+    width: 100%;
+    font-size: 18px;
+}
+
+.checkbox {
+    margin: 5px;
+}
+
+.label {
+    font-size: 18px;
+}

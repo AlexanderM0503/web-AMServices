@@ -30,30 +30,30 @@
 
             <div class="link_all">
                 <div class="link_services">
-                    <i> <a href="#">PasswordGenerator</a> </i>
+                    <i><a href="./password.php">PasswordGenerator</a></i>
                     <p>Простой генератор паролей</p>
                     <hr class="link_hr">
-                    <i> <a href="#">Factor</a> </i>
+                    <i><a href="#">Factor</a></i>
                     <p>Разложение числа на множители</p>
                     <hr class="link_hr">
-                    <i> <a href="#">Random</a> </i>
+                    <i><a href="#">Random</a></i>
                     <p>Генератор чисел</p>
                     <hr class="link_hr">
-                    <i> <a href="#">Color</a> </i>
+                    <i><a href="#">Color</a></i>
                     <p>RGB-палитра</p>
                     <hr class="link_hr">
-                    <i> <a href="#">Anecdotes</a></i>
+                    <i><a href="#">Anecdotes</a></i>
                     <p>Сборник анекдотов</p>
                 </div>
 
                 <div class="link_games">
-                    <i> <a href="#">TicTacToe</a></i>
+                    <i><a href="#">TicTacToe</a></i>
                     <p>Игра "Крестики-нолики"</p>
                     <hr class="link_hr">
-                    <i> <a href="#">Tag</a> </i>
+                    <i><a href="#">Tag</a></i>
                     <p>Игра "Пятнашки"</p>
                     <hr class="link_hr">
-                    <i> <a href="#">Schulte</a> </i>
+                    <i><a href="#">Schulte</a></i>
                     <p>Таблицы Шульте</p>
                 </div>
             </div>
