@@ -57,7 +57,7 @@ footer p {
     box-shadow: 0 0 5px;
 }
 
-.textBox, .numberBox {
+.textBox, .text, .numberBox {
     margin: 5px;
     width: 100%;
     font-size: 18px;

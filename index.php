@@ -33,7 +33,7 @@
                     <i><a href="./password.php">PasswordGenerator</a></i>
                     <p>Простой генератор паролей</p>
                     <hr class="link_hr">
-                    <i><a href="#">Factor</a></i>
+                    <i><a href="./factor.php">Factor</a></i>
                     <p>Разложение числа на множители</p>
                     <hr class="link_hr">
                     <i><a href="#">Random</a></i>
