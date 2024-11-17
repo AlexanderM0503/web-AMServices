@@ -36,7 +36,7 @@
                     <i><a href="./factor.php">Factor</a></i>
                     <p>Разложение числа на множители</p>
                     <hr class="link_hr">
-                    <i><a href="#">Random</a></i>
+                    <i><a href="./random.php">Random</a></i>
                     <p>Генератор чисел</p>
                     <hr class="link_hr">
                     <i><a href="#">Color</a></i>
