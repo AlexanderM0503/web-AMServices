@@ -63,6 +63,17 @@ footer p {
     font-size: 18px;
 }
 
+.textBox75px {
+    margin: 5px;
+    width: 75px;
+    font-size: 18px;
+}
+
+.range {
+    margin: 5px;
+    width: 100%;
+}
+
 .button45px {
     margin: 5px;
     width: 45px;

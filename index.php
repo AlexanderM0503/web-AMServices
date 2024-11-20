@@ -39,7 +39,7 @@
                     <i><a href="./random.php">Random</a></i>
                     <p>Генератор чисел</p>
                     <hr class="link_hr">
-                    <i><a href="#">Color</a></i>
+                    <i><a href="./color.php">Color</a></i>
                     <p>RGB-палитра</p>
                     <hr class="link_hr">
                     <i><a href="#">Anecdotes</a></i>
