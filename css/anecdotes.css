@@ -1,0 +1,20 @@
+.ancd {
+    margin: 7px;
+    padding: 3px;
+    display: flex;
+    align-items: center;
+    transition: background-color .5s;
+}
+
+.ancd:hover {
+    background-color: #add8e6;
+}
+
+.ancdText {
+    width: calc(100% - 40px);
+    font-size: 18px;
+}
+
+.ancdDelete {
+    width: 40px;
+}

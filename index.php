@@ -42,7 +42,7 @@
                     <i><a href="./color.php">Color</a></i>
                     <p>RGB-палитра</p>
                     <hr class="link_hr">
-                    <i><a href="#">Anecdotes</a></i>
+                    <i><a href="./anecdotes.php">Anecdotes</a></i>
                     <p>Сборник анекдотов</p>
                 </div>
 
