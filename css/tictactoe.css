@@ -1,0 +1,12 @@
+.gameBox {
+    width: max-content;
+    margin: 20px auto 20px auto;
+    padding: 15px 20px 15px 20px;
+    border-radius: 7px;
+    box-shadow: 0 0 5px;
+}
+
+.gameBox input {
+    width: 20vw;
+    max-width: 175px;
+}

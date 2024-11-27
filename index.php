@@ -47,7 +47,7 @@
                 </div>
 
                 <div class="link_games">
-                    <i><a href="#">TicTacToe</a></i>
+                    <i><a href="./tictactoe.php">TicTacToe</a></i>
                     <p>Игра "Крестики-нолики"</p>
                     <hr class="link_hr">
                     <i><a href="#">Tag</a></i>
