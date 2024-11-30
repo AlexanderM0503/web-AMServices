@@ -50,7 +50,7 @@
                     <i><a href="./tictactoe.php">TicTacToe</a></i>
                     <p>Игра "Крестики-нолики"</p>
                     <hr class="link_hr">
-                    <i><a href="#">Tag</a></i>
+                    <i><a href="./tag.php">Tag</a></i>
                     <p>Игра "Пятнашки"</p>
                     <hr class="link_hr">
                     <i><a href="#">Schulte</a></i>
